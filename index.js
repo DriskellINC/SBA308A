@@ -15,4 +15,5 @@ async function fetchCatImages() {
     });
 }
 
+
 fetchCatImages();
